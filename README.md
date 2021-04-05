@@ -12,7 +12,7 @@ We wanted to create a text classifier that could classify offensive comments in 
 
 We trained the following models: Logistic Regression, Support Vector Machine, Neural Network, Random Forest & Decision Tree (see code for further specifications). We also combined them in an ensemble where a mix of majority vote- and average ensembling was employed (see code for specifications).
 
-Our best performing model was our ensemble containing all models, which achieved a macro F1-score of 0.71. It is important to note that the dataset is heavily skewed towards non-offensive comments, so the F1-score should be taken with a grain of salt. Nonetheless it would have ranked as the 23th best model (out of 38) in the OffensEval2020 competition, so we deem it to be quite successful when taking the constraints into account.
+Our best performing model was our ensemble containing all models, which achieved a macro F1-score of 0.71. It is important to note that the dataset is heavily skewed towards non-offensive comments, so the F1-score should be taken with a grain of salt. Nonetheless it would have ranked as the 23th best model (out of 38) in the OffensEval2020 competition, so we deem it to be quite successful when taking the circumstances into account.
 
 
 ### To run the code, please follow the following steps from the commandline:
