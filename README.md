@@ -18,7 +18,7 @@ Our best performing model was our ensemble containing all models, which achieved
 ### To run the code, please follow the following steps from the commandline:
 1. Clone the reposioty to a folder of your choice on worker02: 
 - cd {folder of you choice}
-- git clone https://github.com/guscode/Language-Analytics-5
+- git clone https://github.com/JohanHorsmans/Language-Analytics-5
 2. Set your working directory to the newly created repository:
 - cd Language-Analytics-5
 3. Create virtual environment: 
