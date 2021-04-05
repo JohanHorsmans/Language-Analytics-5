@@ -25,5 +25,5 @@ Our best performing model was our ensemble containing all models, which achieved
 - bash hate_env.sh 
 5. Activate the enviroment:
 - source hate_env/bin/activate
-6.  run the script: python HateClass.py
-- To see arguments and a detailed guide on what to specify, type: python network_analysis.py -h.
+6.  run the script: 
+- python HateClass.py
